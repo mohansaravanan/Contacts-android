@@ -8,4 +8,5 @@ To checkout the code
 git clone https://github.com/mohansaravanan/Contacts-android.git
 
 cd to Contacts-android and connect your device and run below gradle command
+
 ./gradlew contacts-app:installDebug
